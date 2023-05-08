@@ -1,0 +1,26 @@
+Total survived per embarked: 
+C Embarked 100.0%
+Q Embarked0.0 %
+S Embarked50.0%
+
+Survived by age:
+ Children under the age of ten0.0%
+Boys under 20 years old 0.0%
+Guys under 30 66.0%
+Adults up to the age of 40 66.0%
+Adults up to age 50 0.0%
+Elders 0.0%
+
+Total male survived 0.0%, Total female survived 100.0%
+Total people without family who survived are 0.0%
+Total family with family who survived are 0.0%
+Total survived per price: 
+Low Price 0.0%
+Medium Price 0.0 %
+High Price0.0%
+
+Total survived per class: 
+First class 66.0%
+Second class0.0 %
+Third class33.0%
+
